@@ -1,2 +1,2 @@
 # DL4DS-nci
-This repository contains scripts and Jupyter notebooks utilizing DL4DS(https://github.com/carlos-gg/dl4ds) at NCI supercomputing facility. For more details, please visit https://opus.nci.org.au/x/IQFDDQ .
+This repository contains scripts and Jupyter notebooks utilizing DL4DS(https://github.com/carlos-gg/dl4ds) at NCI supercomputing facility. For more details, please visit https://opus.nci.org.au/x/qQFDDQ.
